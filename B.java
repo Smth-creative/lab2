@@ -23,4 +23,8 @@ public class B implements J {
     public String kk() {
         return "No";
     }
+
+    public int[] ii() {
+        return new int[]{4, 3, 2, 1};
+    }
 }

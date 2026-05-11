@@ -23,4 +23,8 @@ public class G implements J {
     public double ad() {
         return java.lang.Math.sqrt(13);
     }
+
+    public int ae() {
+        return java.lang.Math.abs(-7);
+    }
 }
