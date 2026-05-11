@@ -1,4 +1,4 @@
-public class B implements J {
+public class B extends null implements J {
 
     private double a = 100.500;
 
@@ -22,5 +22,21 @@ public class B implements J {
 
     public String kk() {
         return "No";
+    }
+
+    public int[] ii() {
+        return new int[]{4, 3, 2, 1};
+    }
+
+    public Object rr() {
+        return null;
+    }
+
+    public String nn() {
+        "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
+    }
+
+    public int cc() {
+        return 42;
     }
 }

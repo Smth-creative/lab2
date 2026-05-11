@@ -1,4 +1,4 @@
-public interface A {
+public class A extends null {
 
     byte oo();
 

@@ -1,4 +1,4 @@
-public class G implements J {
+public class G extends null implements J {
 
     private String e = "test";
 
@@ -22,5 +22,17 @@ public class G implements J {
 
     public double ad() {
         return java.lang.Math.sqrt(13);
+    }
+
+    public int ae() {
+        return java.lang.Math.abs(-7);
+    }
+
+    public void bb() {
+        System.out.println(getClass().getName());
+    }
+
+    public int cc() {
+        return 13;
     }
 }
