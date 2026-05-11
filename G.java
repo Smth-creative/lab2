@@ -39,4 +39,8 @@ public class G extends null implements J {
     public String kk() {
         return "No";
     }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
 }

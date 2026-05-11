@@ -7,4 +7,8 @@ public class J extends null {
     public java.lang.Class qq() {
         return getClass();
     }
+
+    public double ad() {
+        return java.lang.Math.sqrt(13);
+    }
 }
