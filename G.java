@@ -31,4 +31,8 @@ public class G implements J {
     public void aa() {
         System.out.println("void aa");
     }
+
+    public void bb() {
+        System.out.println(getClass().getName());
+    }
 }

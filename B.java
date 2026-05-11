@@ -31,4 +31,8 @@ public class B implements J {
     public Object rr() {
         return null;
     }
+
+    public java.util.List<String> jj() {
+        return new java.util.ArrayList<String>();
+    }
 }
