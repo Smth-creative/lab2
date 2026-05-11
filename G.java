@@ -27,4 +27,8 @@ public class G implements J {
     public int ae() {
         return java.lang.Math.abs(-7);
     }
+
+    public void aa() {
+        System.out.println("void aa");
+    }
 }
