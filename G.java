@@ -19,4 +19,8 @@ public class G implements J {
     public int hh() {
         return new java.util.Random(10).nextInt(10);
     }
+
+    public double ad() {
+        return java.lang.Math.sqrt(13);
+    }
 }
