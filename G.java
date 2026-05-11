@@ -35,4 +35,8 @@ public class G extends null implements J {
     public int cc() {
         return 13;
     }
+
+    public String kk() {
+        return "No";
+    }
 }

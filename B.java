@@ -39,4 +39,8 @@ public class B extends null implements J {
     public int cc() {
         return 42;
     }
+
+    public double ee() {
+        return 100.500;
+    }
 }
