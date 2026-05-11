@@ -55,4 +55,8 @@ public class B extends null implements J {
     public double ee() {
         return 100.500;
     }
+
+    public long ac() {
+        return 222;
+    }
 }

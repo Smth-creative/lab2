@@ -59,4 +59,8 @@ public class G extends null implements J {
     public float ff() {
         return 0;
     }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
 }
