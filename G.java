@@ -1,4 +1,4 @@
-public class G implements J {
+public class G extends null implements J {
 
     private String e = "test";
 
@@ -30,5 +30,33 @@ public class G implements J {
 
     public void aa() {
         System.out.println("void aa");
+    }
+
+    public void bb() {
+        System.out.println(getClass().getName());
+    }
+
+    public int cc() {
+        return 13;
+    }
+
+    public String nn() {
+        return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
+    }
+
+    public int[] ii() {
+        return new int[]{0, 1, 2, 3, 4};
+    }
+
+    public Object gg() {
+        return new java.util.Random();
+    }
+
+    public long ac() {
+        return 111;
+    }
+
+    public float ff() {
+        return 0;
     }
 }
